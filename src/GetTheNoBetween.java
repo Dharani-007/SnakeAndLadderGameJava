@@ -5,7 +5,6 @@ public class GetTheNoBetween {
         Random rc = new Random();
         int randomNumber = (int) (Math.random() * 6) + 1;
 
-
         System.out.println("The number is " + randomNumber);
     }
 }
