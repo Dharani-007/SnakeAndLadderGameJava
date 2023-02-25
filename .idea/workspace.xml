@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b11ef445-c1a4-428f-ac8e-9143f8e4a1d0" name="Changes" comment="Added : Get the number between one to six using random">
-      <change afterPath="$PROJECT_DIR$/src/SnakeAndLadder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StartPosition0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StartPosition0.java" afterDir="false" />
-    </list>
+    <list default="true" id="b11ef445-c1a4-428f-ac8e-9143f8e4a1d0" name="Changes" comment="Added : StartPosition0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="UC2" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677207729157</updated>
       <workItem from="1677207729379" duration="6799000" />
-      <workItem from="1677290222985" duration="403000" />
+      <workItem from="1677290222985" duration="743000" />
     </task>
     <task id="LOCAL-00001" summary="Added : start position zero">
       <created>1677245853274</created>
@@ -91,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677249272838</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added : StartPosition0">
+      <created>1677290670107</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677290670107</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +105,7 @@
     <MESSAGE value="Added :Welcome and start position zero" />
     <MESSAGE value="Added : Get the number using random" />
     <MESSAGE value="Added : Get the number between one to six using random" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Get the number between one to six using random" />
+    <MESSAGE value="Added : StartPosition0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : StartPosition0" />
   </component>
 </project>
