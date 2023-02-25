@@ -33,6 +33,7 @@ public class SnakeAndLadder {
                 }
                 System.out.println("player rolls die and get value=" + i);
                 System.out.println("Dice Roll =" + value);
+
             }
 
     }
