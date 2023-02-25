@@ -35,6 +35,5 @@ public class SnakeAndLadder {
                 System.out.println("Dice Roll =" + value);
 
             }
-
     }
 }
