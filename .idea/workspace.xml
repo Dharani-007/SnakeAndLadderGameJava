@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b11ef445-c1a4-428f-ac8e-9143f8e4a1d0" name="Changes" comment=" Added : Get the number between 1 to 6">
-      <change afterPath="$PROJECT_DIR$/src/ReportTheNoOftimestheDice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhichPlayerWonTheGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677600547551</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=" Added : Report the number of times the dice was played to win the game and also the position after every die role">
+      <created>1677605832756</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677605832756</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +153,7 @@
     <MESSAGE value=" Added : Start Position 0" />
     <MESSAGE value=" Added : Get the number between 1 to 6" />
     <MESSAGE value=" Added : Repeat till the Player reaches the winning position 100." />
-    <option name="LAST_COMMIT_MESSAGE" value=" Added : Repeat till the Player reaches the winning position 100." />
+    <MESSAGE value=" Added : Report the number of times the dice was played to win the game and also the position after every die role" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Added : Report the number of times the dice was played to win the game and also the position after every die role" />
   </component>
 </project>
