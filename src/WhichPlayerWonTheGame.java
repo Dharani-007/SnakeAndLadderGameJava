@@ -28,7 +28,6 @@ public class WhichPlayerWonTheGame {
         return position;
     }
 
-
     public static void main(String[] args) {
         int playerOnePosition = 0;
         int playerTwoPosition = 0;
@@ -72,4 +71,6 @@ public class WhichPlayerWonTheGame {
             System.out.println("player Two Wins");
         }
     }
+
 }
+
