@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b11ef445-c1a4-428f-ac8e-9143f8e4a1d0" name="Changes" comment=" Added : the player gets to exact winning position 100.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GetTheNoBetween.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GetTheNoBetween1to6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="UC1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -129,6 +129,18 @@
     <MESSAGE value="Added : StartPosition0" />
     <MESSAGE value=" Added : They are No Play,Ladder or Snake." />
     <MESSAGE value=" Added : Repeat till the Player reaches the winning position 100." />
-    <option name="LAST_COMMIT_MESSAGE" value=" Added : Repeat till the Player reaches the winning position 100." />
+    <MESSAGE value=" Added : Start Position 0" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Added : Start Position 0" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GetTheNoBetween1to6.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
