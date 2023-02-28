@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b11ef445-c1a4-428f-ac8e-9143f8e4a1d0" name="Changes" comment=" Added : Get the number between 1 to 6">
-      <change afterPath="$PROJECT_DIR$/src/NoPlayLadderorSnake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RepeatPlayers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GetTheNoBetween1to6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GetTheNoBetween1to6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SnakeAndLadder.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
