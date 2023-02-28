@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b11ef445-c1a4-428f-ac8e-9143f8e4a1d0" name="Changes" comment=" Added : Get the number between 1 to 6">
-      <change afterPath="$PROJECT_DIR$/src/RepeatPlayers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExactWinningPosition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="UC4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -122,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677592249548</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=" Added : Repeat till the Player reaches the winning position 100.">
+      <created>1677600547551</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677600547551</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,9 +143,9 @@
     <MESSAGE value="Added : Get the number between one to six using random" />
     <MESSAGE value="Added : StartPosition0" />
     <MESSAGE value=" Added : They are No Play,Ladder or Snake." />
-    <MESSAGE value=" Added : Repeat till the Player reaches the winning position 100." />
     <MESSAGE value=" Added : Start Position 0" />
     <MESSAGE value=" Added : Get the number between 1 to 6" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Added : Get the number between 1 to 6" />
+    <MESSAGE value=" Added : Repeat till the Player reaches the winning position 100." />
+    <option name="LAST_COMMIT_MESSAGE" value=" Added : Repeat till the Player reaches the winning position 100." />
   </component>
 </project>
